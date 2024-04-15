@@ -1,2 +1,2 @@
-# gt_test-
+# gt_test
 testing for the odin project 
